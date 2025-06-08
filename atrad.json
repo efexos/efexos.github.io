@@ -1,6 +1,6 @@
 {
     "fqdn": "tms.stockhouse.com.np",
-    "reqid": "1749357295604",
-    "cookie": "broker_code=NSH; is_dvp_enabled=true; max_basket_limit=100; role=OnlineUser; username=; watchID=111029; JSESSIONID=h0QFXWpmYecAT5805eeuQ2dWu9fAvxVSlVJDLAmY.ATRAD; theme=black",
+    "reqid": "1749359089054",
+    "cookie": "username=RS263071; JSESSIONID=xeHZ0rDJyJisEK8L4gAZ1U4jv3GSsIFoZ3nl1HPv.ATRAD; broker_code=NSH; is_dvp_enabled=true; max_basket_limit=100; role=OnlineUser; watchID=111029; theme=black",
     "username": "RS263071"
 }
